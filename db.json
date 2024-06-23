@@ -7,6 +7,22 @@
       "prixgasoil": 15.5,
       "prixessence": 18,
       "AvecAdditif": true
-    }
+    },
+    {
+    "id": 2,
+    "station": "Al Massira",
+    "tel": "0537476111",
+    "prixgasoil": 16,
+    "prixessence": 17.5,
+    "AvecAdditif": false
+  },
+  {
+    "id": 3,
+    "station": "sid bozid",
+    "tel": "0537476188",
+    "prixgasoil": 15,
+    "prixessence": 17.5,
+    "AvecAdditif": true
+  }
   ]
 }
