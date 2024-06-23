@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "station": "Annasr",
+      "tel": "0537372121",
+      "prixgasoil": 15.5,
+      "prixessence": 18,
+      "AvecAdditif": true
+    }
+  ]
+}
